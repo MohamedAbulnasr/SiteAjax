@@ -1,4 +1,4 @@
-# SiteAjax
-<h2> The Site of Practice in it..<br>
-<a href="https://mohamedabulnasr.github.io/SiteAjax/"> Click to go throgh page of this site </a>
+<h2><a href="https://mohamedabulnasr.github.io/SiteAjax/"> Click here to go site: mohamedabulnasr.github.io/SiteAjax </a>
+<br>The Site of Practice in it..<br>
 </h2>
+# SiteAjax
